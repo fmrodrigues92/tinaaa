@@ -16,4 +16,4 @@ Preparar o conteúdo profissional para indexação, recuperação e uso seguro e
 
 ## Status
 
-Pendente de revisão.
+Revisado, apesar de parecer repetitivo

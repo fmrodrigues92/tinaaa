@@ -16,4 +16,4 @@ Recuperar evidências profissionais relevantes para responder perguntas ou avali
 
 ## Status
 
-Pendente de revisão.
+Revisado

@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Salvar descrição da vaga, requisitos, senioridade, empresa, observações e perguntas de formulário, recrutador ou entrevista.
+Salvar descrição da vaga, salario informado pela empresa, pretenção que preenchi, requisitos, senioridade, empresa, observações e perguntas de formulário, recrutador ou entrevista.
 
 ## Objetivo
 
@@ -16,4 +16,4 @@ Centralizar o contexto da oportunidade para orientar busca semântica, análise 
 
 ## Status
 
-Pendente de revisão.
+Revisado

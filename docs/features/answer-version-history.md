@@ -16,4 +16,4 @@ Permitir aprender com respostas anteriores e reaproveitar boas formulações sem
 
 ## Status
 
-Pendente de revisão.
+Revisado

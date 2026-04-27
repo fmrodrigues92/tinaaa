@@ -16,4 +16,4 @@ Gerar respostas úteis para vagas e entrevistas sem perder fidelidade à trajet�
 
 ## Status
 
-Pendente de revisão.
+Revisado

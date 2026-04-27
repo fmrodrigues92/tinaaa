@@ -16,4 +16,4 @@ Garantir confiança, revisão humana e auditabilidade das respostas geradas.
 
 ## Status
 
-Pendente de revisão.
+Revisado

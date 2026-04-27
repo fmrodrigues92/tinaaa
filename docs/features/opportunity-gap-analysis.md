@@ -16,4 +16,4 @@ Ajudar o desenvolvedor a entender aderência à vaga sem forçar correspondênci
 
 ## Status
 
-Pendente de revisão.
+Revisado
