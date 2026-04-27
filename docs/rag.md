@@ -58,6 +58,31 @@ Answers should:
 
 When evidence is insufficient, the system should produce a gap-aware response instead of a fabricated one.
 
+## Provider Strategy
+
+The application supports a provider boundary for answer generation.
+
+Initial providers:
+
+- `extractive`: local deterministic draft based only on retrieved evidence. Useful for development without API keys.
+- `openai`: calls the OpenAI Responses API with grounded instructions and retrieved professional evidence.
+- `ollama`: calls a local Ollama server through its HTTP API.
+
+Configure the active provider with:
+
+```env
+TINAAA_AI_PROVIDER=extractive
+TINAAA_AI_MODEL=gpt-5-mini
+OPENAI_API_KEY=
+OLLAMA_BASE_URL=http://host.docker.internal:11434
+OLLAMA_MODEL=llama3.1
+```
+
+For ChatGPT/OpenAI behavior, set `TINAAA_AI_PROVIDER=openai` and provide `OPENAI_API_KEY`.
+The OpenAI provider does not send `temperature`, because some current models do not support it.
+
+For local generation, run Ollama on the host and set `TINAAA_AI_PROVIDER=ollama`.
+
 ## Evaluation
 
 RAG quality should be evaluated by:

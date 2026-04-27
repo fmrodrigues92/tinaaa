@@ -16,4 +16,4 @@ Criar a base principal de informações profissionais reais que será usada post
 
 ## Status
 
-Revisado
+Revisado; implementação inicial criada.

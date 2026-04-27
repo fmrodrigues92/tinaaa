@@ -16,4 +16,4 @@ Dar uma visão rápida do progresso da base profissional e do uso do sistema.
 
 ## Status
 
-Revisado
+Revisado; implementação inicial criada.

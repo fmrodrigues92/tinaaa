@@ -16,4 +16,4 @@ Centralizar o contexto da oportunidade para orientar busca semântica, análise 
 
 ## Status
 
-Revisado
+Revisado; implementação inicial criada.

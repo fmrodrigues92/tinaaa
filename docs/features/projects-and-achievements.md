@@ -16,4 +16,4 @@ Detalhar evidências fortes o suficiente para sustentar respostas específicas e
 
 ## Status
 
-Revisado
+Revisado; implementação inicial criada.
